@@ -13,4 +13,4 @@
 ## Character
  | barney gumble  | groundskeeper willie  | maggie simpson  |  mayor quimby | selma bouvier  |  waylon smithers |
 |---|---|---|---|---|---|
-| ![](./dataset/Simpson/barney_gumble/pic_0000)  | ![](./dataset/Simpson/groundskeeper_willie/pic_0000)  | ![](./dataset/Simpson/maggie_simpson/pic_0000)  |  ![](./dataset/Simpson/mayor_quimby/pic_0000) |  ![](./dataset/Simpson/selma_bouvier/pic_0000) | ![](./dataset/Simpson/waylon_smithers/pic_0000) |
+| ![](./dataset/Simpson/barney_gumble/pic_0000.jpg)  | ![](./dataset/Simpson/groundskeeper_willie/pic_0000.jpg)  | ![](./dataset/Simpson/maggie_simpson/pic_0000.jpg)  |  ![](./dataset/Simpson/mayor_quimby/pic_0000.jpg) |  ![](./dataset/Simpson/selma_bouvier/pic_0000.jpg) | ![](./dataset/Simpson/waylon_smithers/pic_0000.jpg) |
